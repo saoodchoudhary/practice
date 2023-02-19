@@ -4,6 +4,6 @@ const app = require('./Api')
 
 
 
-app.listen(8002,()=>{
+app.listen(3000,()=>{
     console.log("server is connected");
 });
